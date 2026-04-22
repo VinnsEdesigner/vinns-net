@@ -11,6 +11,7 @@ import { ReposTab } from "@/components/repos-tab";
 import { LogsTab } from "@/components/logs-tab";
 
 export type TabId = "terminal" | "pulse" | "snippets" | "settings" | "repos" | "logs";
+// Nexus AI Dashboard
 
 export default function Home() {
   const [activeTab, setActiveTab] = useState<TabId>("terminal");
