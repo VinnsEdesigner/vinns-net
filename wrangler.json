@@ -1,8 +1,0 @@
-{
-  "name": "vinns-net",
-  "main": "src/worker.js",
-  "compatibility_date": "2026-04-16",
-  "observability": {
-    "enabled": true
-  }
-}
